@@ -5,7 +5,12 @@ public class even{
         if(n%2==0){
             System.out.println("Even number "+n);
              System.out.println("hi vj "+n);
+        else{
+            System.out.println("Odd");
+        }
             
         }
     }
 }
+
+System.out.println("Vijaylaxmi");
