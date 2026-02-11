@@ -1,4 +1,3 @@
-
 public class even{
     public static void main(String[] args) {
         int n=6;
@@ -7,5 +6,6 @@ public class even{
              System.out.println("hi vj "+n);
             
         }
+        System.out.println("odd");
     }
 }
